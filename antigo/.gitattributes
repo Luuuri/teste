@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+restaurant_system/
+│
+├── database/
+├── interface/
+├── services/
+├── utils/
+├── assets/
