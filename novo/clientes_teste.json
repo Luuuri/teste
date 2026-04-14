@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "nome": "Maria",
+        "cpf": "11122233344",
+        "telefone": "99999-1111",
+        "pedidos": [],
+        "status_cliente": "Regular"
+    }
+]
